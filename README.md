@@ -43,6 +43,4 @@ After execution, the script will display the number of files beautified for each
 - Ensure you have appropriate permissions to modify files within the specified directory.
 - Back up your files before running the script, especially if working with critical codebases.
 
----
-
-This README provides clear steps on setting up, executing, and understanding the output of your file beautification script. Adjustments can be made based on specific details or additional features of your script.
+Feel free to customize the script according to your needs and preferences. If you encounter any issues or have suggestions for improvement, please feel free to create an issue or contribute to the development
