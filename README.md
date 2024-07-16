@@ -1,7 +1,3 @@
-Certainly! Here's a properly formatted README for your GitHub repository:
-
----
-
 # File Beautifier
 
 This script automates the beautification of files (HTML, CSS, JavaScript, and PHP) within a specified directory. It utilizes various beautification libraries to enhance readability and consistency of code.
